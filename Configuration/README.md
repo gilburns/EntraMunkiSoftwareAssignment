@@ -1,4 +1,4 @@
-# Intune COnfiguration  
+# Intune Configuration  
     
 
-See the Wiki for full details on how to implement the conditions found here
+See the [Wiki](https://github.com/gilburns/EntraMunkiSoftwareAssignment/wiki) for full details on how to implement the conditions found here
