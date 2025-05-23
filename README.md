@@ -204,11 +204,6 @@ sudo /usr/local/munki/munki-python -c "import munki; print(munki.getConditions()
 - Choose descriptive condition names
 - Document all custom conditions
 
-### Security Considerations
-- Limit script execution permissions
-- Validate all input data
-- Monitor for unauthorized preference changes
-
 ### Maintenance
 - Regularly review and update condition scripts
 - Test new configurations in development environment
